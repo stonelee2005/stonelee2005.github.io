@@ -2,7 +2,7 @@
 title: Stonelee Blog
 SEOTitle: Stonelee的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: comebackhome@163,cin
+email: comebackhome@163.com
 description: "Every failure is leading towards success."
 keyword: "GX, GX Blog, 李广雄的博客, liguangxiong, Linux, EBS, Oracle,Java"
 url: "http://stonelee2005.github.io"          # your host, for absolute URL
@@ -102,13 +102,7 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "简书·StoneLee",
+        href: "https://www.jianshu.com/u/c613c8dd5334"
     }
 ]
