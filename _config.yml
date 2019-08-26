@@ -67,7 +67,7 @@ kramdown:
 #  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 来必力City版评论系统
-livere
+livere:
   enable: true
 
 # 统计
