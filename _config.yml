@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 #gitalk:
-#  enable: false    #是否开启Gitalk评论
+####enable: false    #是否开启Gitalk评论
 #  clientID: c63322e87fb1e546eec1                            #生成的clientID
 #  clientSecret: 62f5b4652c9d1def9a5a7096ab19fe88d268b835    #生成的clientSecret
 #  repo: stonelee2005.github.io    #仓库名称
