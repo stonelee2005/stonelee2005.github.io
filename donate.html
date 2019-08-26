@@ -1,0 +1,134 @@
+---
+layout: page
+title: "About Me"
+description: "Hey, this is StoneLee."
+header-img: "img/post-bg-rwd.jpg"
+---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote><p>冰冻三尺 非一日之寒<br>
+    积土成山 非斯须之作</p></blockquote>
+
+    <p>Hey，我是<strong>广雄(GX)</strong>，一只软件技术支持工程师，现在大连工作。</p>
+
+    <p>这个博客算是记录我学习中学到的一些东西，还有一些生活感悟感悟，也是给一起学习的朋友一个笔记参考。。</p>
+
+    
+    <h5>Talks</h5>
+
+    <ul>
+        <li>Linux技术</li>
+        <li>编程知识</li>        
+        <li>读书笔记</li>
+        <li>生活感悟</li> 
+    </ul>
+    
+    <h5>工作经历</h5>
+
+    <ul>
+        <li>2015年12月~ ,入职<a href="https://www.oracle.com">甲骨文软件系统有限公司</a>,从事Oracle E-Business Suite 技术支持工作</li>
+        <li>2013年9月~2015年12月,入职<a href="https://www.ibm.com">IBM</a>,从事<strong>韩国最大化妆品公司</strong>-><a href="https://www.amorepacific.com/">韩国爱茉莉太平洋集团</a>零售系统开发维护工作 </li>        
+        <li>2011年7月~2013年08月,入职 BankwareGlobal 韩国银威金融软件公司,从事<strong>韩国最大国有银行</strong><a href="https://www.ibk.co.kr/">Industrial Bank of Korea (IBK)银行</a>信用系统与自动化系统咨询工作</li>        
+    </ul>    
+    
+    <h5>语言能力</h5>
+
+    <ul>
+        <li>韩语精通</li>
+        <li>英语中等</li>        
+        <li>日语-打算学</li>
+    </ul>
+    
+</div>
+
+<!-- English Version -->
+<!-- <div class="en post-container">
+    <blockquote><p>Yet another iOS Developer. <br>
+    Yet another Life-long Student.</p></blockquote>
+
+    <p>Hi, I am <strong>Baiying Qiu</strong>，you can call me <strong>BY</strong>. I am an iOS software engineer and currently working in Xiamen</p>
+
+    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/qiubaiying">Github·BY</a>.</p>
+    
+    <p>I am a sports enthusiast, I like fitness, running and boxing.</p>
+
+    <h5>Talks</h5>
+
+    <ul>
+    <li><a href="https://github.com">GitHub</a></li>
+    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+    <li><a href="https://qiubaiying.github.io">BY</a></li>
+    </ul>
+</div> -->
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
+
+
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC80NjI1OS8yMjc3MA==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->                                                                                                                        
+                                 
+
