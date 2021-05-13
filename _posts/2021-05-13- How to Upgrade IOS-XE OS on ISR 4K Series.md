@@ -181,7 +181,7 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
         ![image-20210513105013874](https://stonelee2005.github.io/img.assets/image-20210513105013874.png)  
 
-     3. Copy
+     3. Copy 
 
         ```shell
         Router#copy tftp: bootflash:
