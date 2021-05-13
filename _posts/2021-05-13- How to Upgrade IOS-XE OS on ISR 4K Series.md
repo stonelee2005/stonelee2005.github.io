@@ -97,11 +97,11 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
      1. Get information about TFTP
 
-        ![image-20210513100713054](https://stonelee2005.github.io/img.assets/image-20210513100713054.png)
+        ![image-20210513100713054](https://stonelee2005.github.io/img/image-20210513100713054.png)
 
      2. Using ftp client to copy the package to tftp server
 
-        ![image-20210513105013874](https://stonelee2005.github.io/img.assets/image-20210513105013874.png)  
+        ![image-20210513105013874](https://stonelee2005.github.io/img/image-20210513105013874.png)  
 
      3. Copy
 
@@ -175,11 +175,11 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
      1. Get information about TFTP
 
-        ![image-20210513100713054](https://stonelee2005.github.io/img.assets/image-20210513100713054.png)
+        ![image-20210513100713054](https://stonelee2005.github.io/img/image-20210513100713054.png)
 
      2. Using ftp client to copy the package to tftp server
 
-        ![image-20210513105013874](https://stonelee2005.github.io/img.assets/image-20210513105013874.png)  
+        ![image-20210513105013874](https://stonelee2005.github.io/img/image-20210513105013874.png)  
 
      3. Copy 
 
@@ -235,7 +235,9 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 6. Confirm
 
    ```shell
-   
+   Router>sho version 
+   Cisco IOS XE Software, Version 16.09.06
+   Cisco IOS Software [Fuji], ISR Software (X86_64_LINUX_IOSD-UNIVERSALK9-M), Version 16.9.6, RELEASE SOFTWARE (fc2)
    ```
 
 ## 3. LAB
