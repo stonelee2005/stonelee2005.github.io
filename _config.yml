@@ -1,10 +1,10 @@
 # Site settings
-title: 李广雄博客
-SEOTitle: 李广雄的博客 | GX Blog
+title: Stone's Blog
+SEOTitle: Stone's Blog | GX Blog
 header-img: img/post-bg-desk.jpg
 email: comebackhome@163.com
 description: "Every failure is leading towards success."
-keyword: "GX, GX Blog, 李广雄的博客, liguangxiong, Linux, EBS, Oracle,Java"
+keyword: "GX, GX Blog, 李广雄的博客, liguangxiong, Linux, EBS, Oracle,Java,Python,Cisco"
 url: "http://stonelee2005.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/stonelee2005/stonelee2005.github.io.git" # you code repository
