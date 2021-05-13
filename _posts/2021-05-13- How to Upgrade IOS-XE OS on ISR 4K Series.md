@@ -3,7 +3,7 @@ layout:     post
 title:      How to Upgrade IOS-XE on ISR 4K Series
 subtitle:   How to Upgrade IOS-XE on ISR 4K Series
 date:       2021-05-13
-author:     李广雄
+author:     Stone
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
