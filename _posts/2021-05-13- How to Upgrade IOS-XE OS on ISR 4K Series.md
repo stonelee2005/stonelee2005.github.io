@@ -64,7 +64,7 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
 [IOS XE Software - Fuji-16.9.7(MD)](https://software.cisco.com/download/home/284358776/type/282046477/release/Fuji-16.9.7)
 
-![image-20210513101206319](img/image-20210513101206319.png)
+![image-20210513101206319](https://stonelee2005.github.io/img/image-20210513101206319.png)
 
  
 
@@ -97,11 +97,11 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
      1. Get information about TFTP
 
-        ![image-20210513100713054](img/image-20210513100713054.png)
+        ![image-20210513100713054](https://stonelee2005.github.io/img.assets/image-20210513100713054.png)
 
      2. Using ftp client to copy the package to tftp server
 
-        ![image-20210513105013874](img/image-20210513105013874.png)  
+        ![image-20210513105013874](https://stonelee2005.github.io/img.assets/image-20210513105013874.png)  
 
      3. Copy
 
@@ -127,7 +127,7 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
    verify /md5 (bootflash:isr4400_rommon_167_5r_SPA.pkg) = 7b852c2927f74ac9cbe5c713eb2c98fa
    ```
 
-   ![image-20210513130919587](img/image-20210513130919587.png)  
+   ![image-20210513130919587](https://stonelee2005.github.io/img/image-20210513130919587.png)  
 
 4. Run the upgrade rom-monitor command to begin the ROMMON upgrade process
 
@@ -175,11 +175,11 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
 
      1. Get information about TFTP
 
-        ![image-20210513100713054](img/image-20210513100713054.png)
+        ![image-20210513100713054](https://stonelee2005.github.io/img.assets/image-20210513100713054.png)
 
      2. Using ftp client to copy the package to tftp server
 
-        ![image-20210513105013874](img/image-20210513105013874.png)  
+        ![image-20210513105013874](https://stonelee2005.github.io/img.assets/image-20210513105013874.png)  
 
      3. Copy
 
@@ -202,7 +202,7 @@ Search google with keyword **isr 4k ios-xe upgrade** to find the software downlo
    verify /md5 (bootflash:isr4400-universalk9.16.09.06.SPA.bin) = 717625455dcba3677a36767567cfd33c
    ```
 
-   ![image-20210512160936882](img/image-20210512160936882.png)
+   ![image-20210512160936882](https://stonelee2005.github.io/img/image-20210512160936882.png)
 
 4. Run the upgrade rom-monitor command to begin the IOS-XE upgrade process
 
