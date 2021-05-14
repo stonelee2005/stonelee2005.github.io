@@ -35,7 +35,7 @@ tags:
    1. What's IOS-XE Version to update
 4. How to upgrade
    1. Find official documents to update the Router Software
-   2. Prepare the Router for update
+   2. Prepare a Router for update
    3. Download Router Software
    4. Upgrading Router Software
    5. Configure Router
@@ -51,7 +51,7 @@ Search google with keyword **isr 4k rommon upgrade** to find the software downlo
 
 [Upgrading Field-Programmable Hardware Devices for Cisco  4000 Series ISRs](https://www.cisco.com/c/en/us/td/docs/routers/access/4400/cpld/isr4400_hwfp.html)
 
-**IOS-XE Upgrade**	
+**IOS-XE Upgrade**
 
 Search google with keyword **isr 4k ios-xe upgrade** to find the software download site
 
