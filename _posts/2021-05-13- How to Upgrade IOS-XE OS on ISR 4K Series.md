@@ -3,7 +3,7 @@ layout:     post
 title:      How to Upgrade IOS-XE on ISR 4K Series
 subtitle:   How to Upgrade IOS-XE on ISR 4K Series
 date:       2021-05-13
-author:     李广雄
+author:     Stone
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
@@ -266,4 +266,8 @@ IOS-XE Upgrade:
 License:
 
 [Activating Boost Performance License in CSL Mode](https://www.cisco.com/c/en/us/td/docs/routers/access/4400/software/configuration/xe-16-6/isr4400swcfg-xe-16-6-book/install.html#concept_x2p_pkj_ndb) 
+
+Traditional or Classic Licensing and Smart Software Licensing:
+
+[Smart Licensing Guide for Access and Edge Routers](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/smart-licensing/qsg/b_Smart_Licensing_QuickStart/b_Smart_Licensing_QuickStart_chapter_011.html#id_91086)
 
