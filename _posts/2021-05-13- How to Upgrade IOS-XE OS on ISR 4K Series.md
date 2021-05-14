@@ -25,6 +25,7 @@ tags:
 
 1. List the reason to upgrade router software
    1. EOL/EOS
+   2. Bugs
 2. Check the prerequisite 
    1. Router Device
    2. License
