@@ -3,7 +3,7 @@ layout:     post
 title:      Cisco Router Connection
 subtitle:   How to set the connection with the Cisco Router 
 date:       2021-05-13
-author:     Stone
+author:     李广雄
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
@@ -13,7 +13,7 @@ tags:
 
 # Cisco Router Configuration
 
-
+远程登录Cisco的方法
 
 
 
