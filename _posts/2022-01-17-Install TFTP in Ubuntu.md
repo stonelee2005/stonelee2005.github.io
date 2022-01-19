@@ -1,17 +1,17 @@
 ---
 layout:     post
-title:      Use TFTP in Cisco
+title:      Use TFTP in Cisco 
 subtitle:   Install TFTP in Ubuntu
 date:       2022-01-17
 author:     Stone
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-
     -  Cisco
     -  tftp
-
+	
 ---
+
 
 # Install TFTP in Ubuntu
 
