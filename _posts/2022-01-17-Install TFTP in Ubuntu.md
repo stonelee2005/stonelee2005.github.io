@@ -8,10 +8,8 @@ header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
     -  Cisco
-    -  tftp
-	
+    -  tftp	
 ---
-
 
 # Install TFTP in Ubuntu
 
